@@ -8,6 +8,7 @@ class User {
   final String? password;
   final String role;
   final String image;
+
   final DateTime createdAt;
 
   User({
